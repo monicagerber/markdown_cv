@@ -1,0 +1,103 @@
+---
+output: 
+  pdf_document:
+    latex_engine: pdflatex
+    template: ~/Dropbox/Documents/job_stuff/markdown_cv/rap-latex-cv.tex
+geometry: margin=1in
+
+title: "CV"
+author: Monica W. Gerber
+
+jobtitle: "Biostatistician // Data Scientist"
+address: "Massachusetts General Hospital · Boston"
+fontawesome: yes
+email: mwgerber@gmail.com
+github: monicagerber
+#phone: "+353 1 408 4800"
+web: monicagerber.com
+updated: no
+
+keywords: R Markdown, academic CV, template
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+linkcolor: blue
+urlcolor: blue
+---
+
+# Professional Experience
+
+*Massachusetts General Hospital | Boston, MA*
+
+* Biostatistician (\href{http://www.massgeneral.org/children/research/researchlab.aspx?id=1577}{\tt $General Academic Pediatrics$} & \href{http://www.massgeneral.org/cchi/}{\tt $CCHI$}) \hfill 2016--present
+
+* Biostatistician (Psychiatry) \hfill 2015-2016
+
+*Boston University School of Public Health | Boston, MA*
+
+* Graduate Research Assistant (Community Health Sciences) \hfill 2014
+
+* Spotlight Coordinator (Office of Public Health Practice) \hfill 2014
+
+*Health Leads | Boston, MA*
+
+* Resource Development Specialist \hfill 2013
+
+*Oregon Campus Compact | Portland, OR*
+
+* AmeriCorps VISTA Member \hfill 2012--2013
+
+*Mercy Corps | Portland, OR*
+
+* Global Envision Intern \hfill 2011--2012
+
+# Education
+
+*Boston University School of Public Health*, M.P.H. (Biostatistics & Epidemiology) \hfill 2015
+
+*Reed College*, B.A. Anthropology \hfill 2011
+
+# Teaching
+
+*Graduate Teaching Assistant, Boston University School of Public Health* \hfill 2014--2015
+
+ Introduction to Epidemiology (EP713), Professors Jacey Greece and Ann Aschengrau
+
+# Publications
+
+Valentine, S.E., Nobles, C.J., **Gerber, M.W.**, Vaewsorn, A.S., Shtasel, D.L. and Marques, L., 2017. The association of posttraumatic stress disorder and chronic medical conditions by ethnicity. Journal of Latina/o psychology, 5(3), p.227.
+
+Fiechtner, L., Puente, G.C., Sharifi, M., Block, J.P., Price, S., Marshall, R., Blossom, J., **Gerber, M.W.** and Taveras, E.M., 2017. Peer Reviewed: A Community Resource Map to Support Clinical–Community Linkages in a Randomized Controlled Trial of Childhood Obesity, Eastern Massachusetts, 2014–2016. Preventing chronic disease, 14.
+
+Taveras, E.M., Marshall, R., Sharifi, M., Avalon, E., Fiechtner, L., Horan, C., **Gerber, M.W.**, Orav, E.J., Price, S.N., Sequist, T. and Slater, D., 2017. Comparative effectiveness of clinical-community childhood obesity interventions: a randomized clinical trial. JAMA pediatrics, 171(8), pp.e171325-e171325.
+
+Nobles, C.J., Valentine, S.E., **Gerber, M.W.**, Shtasel, D.L. and Marques, L., 2016. Predictors of treatment utilization and unmet treatment need among individuals with posttraumatic stress disorder from a national sample. General hospital psychiatry, 43, pp.38-45.
+
+Nobles, C.J., Valentine, S.E., Borba, C.P., **Gerber, M.W.**, Shtasel, D.L. and Marques, L., 2016. Black-white disparities in the association between posttraumatic stress disorder and chronic illness. Journal of psychosomatic research, 85, pp.19-25.
+
+Nobles, C.J., Thomas, J.J., Valentine, S.E., **Gerber, M.W.**, Vaewsorn, A.S. and Marques, L., 2016. Association of premenstrual syndrome and premenstrual dysphoric disorder with bulimia nervosa and binge‐eating disorder in a nationally representative epidemiological sample. International Journal of Eating Disorders, 49(7), pp.641-650.
+
+LeBlanc, N.J., Dixon, L., Robinaugh, D.J., Valentine, S.E., Bosley, H.G., **Gerber, M.W.** and Marques, L., 2016. PTSD and Romantic Relationship Satisfaction: Cluster‐and Symptom‐Level Analyses. Journal of traumatic stress, 29(3), pp.259-267.
+
+Valentine, S.E., **Gerber, M.W.**, Nobles, C.J., Shtasel, D.L. and Marques, L., 2016. Longitudinal study of mental health and pain-related functioning following a motor vehicle collision. Health psychology, 35(7), p.742.
+
+ 
+# Professional Affiliations
+
+  * Society of Epidemiologic Research Member | 2015--present
+  * American Statistical Association Member | 2015--present
+
+# Service
+
+  - Budget Committee, Participatory Budgeting | City of Cambridge | 2016 & 2017 cycles
+  - Science Fair Mentor | MGH James P. Timilty Middle School Partnership | 2016--2017
+  - YWCA of Greater Portland Shelter Volunteer | 2012--2013
+
+# Skills
+
+  - Data Science: R, RStudio, SQL, SAS, Git, Github/Gitlab
+  - Epidemiology & Biostatistics: Causal inference, study design, survey design, model building
+  - Languages: Spanish 
+  - Other: Mixed methods analysis, ethnographic methods
+  
