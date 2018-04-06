@@ -34,42 +34,40 @@ urlcolor: blue
 
 # EMPLOYMENT
 
-**Biostatistician**, *Massachusetts General Hospital | Boston, MA* \hfill 2015--present
+**Biostatistician**, *Massachusetts General Hospital | Boston, MA* \hfill Jan. 2015--present
 
-*General Academic Pediatrics, Center for Community Health Improvement, Community Psychiatry Program*
+* Build statistical models and analyze large datasets from RCTs, longitudinal studies, electronic health records, and surveys to understand the distribution and determinants of health.
+* Collaborate with doctors, researchers, and stakeholders to turn research questions into actionable analysis plans.
+* Communicate results through data visualizations, writing, data tables, and interactive apps.
+* Extract clinical and real world data from EHRs, claims, and other large databases.
+* Mentor and support students and fellows in biostatistics and the preparation of manuscripts.
 
-* Build models and analyze large datasets from cohort studies, randomized controlled trials, electronic health records, complex surveys, and other sources to understand the distribution and determinants of health.
-* Collaborate with doctors, researchers, and executives to develop research questions and analysis plans.
-* Communicate results through data visualizations, writing, tables, and interactive apps.
 
+**Graduate Research Assistant**, *BU School of Public Health | Boston, MA* \hfill Jun.--Dec. 2014
 
-**Graduate Research Assistant**, *Boston University School of Public Health | Boston, MA* \hfill 2014
-
-*Community Health Sciences*
-
-* Analyzed data from the YRBS using mixed models to understand youth substance use.
+* In the department of Community Health Sciences, I analyzed data from the YRBS using mixed models to understand youth substance use.
 * Developed an index to measure exposure to state-level substance use policies.
 
-**Spotlight Coordinator**, *Boston University School of Public Health | Boston, MA* \hfill 2014
+**Spotlight Coordinator**, *BU School of Public Health | Boston, MA* \hfill May--Dec. 2014
 
-*Office of Public Health Practice*
-
-* Launched Spotlight on Mental Health and led 3 committees overseeing Spotlight.
+* Launched Spotlight on Mental Health, a school-wide initiative to examine issues in mental health from an interdisciplinary public health lens. 
+* Led and supported a faculty, student, and staff committee overseeing Spotlight.
 * Planned campus events and programs. Managed communications, marketing, and outreach.
 
 
-**Consultant Resource Development Specialist**, *Health Leads | Boston, MA* \hfill 2013
+**Consultant Resource Development Specialist**, *Health Leads | Boston, MA* \hfill Oct.--Dec. 2013
 
-* Conducted an audit to improve quality of Salesforce “Client Connect” database.
+* Conducted an audit to improve quality of resources in the Salesforce database.
 * Developed methods for better data management. 
 
-**AmeriCorps VISTA Member**, *Oregon Campus Compact | Portland, OR* \hfill 2012--2013
+**AmeriCorps VISTA Member**, *Oregon Campus Compact | Portland, OR* \hfill Apr. 2012--Aug. 2013
 
 * Team Leader for 34 Summer AmeriCorps Members serving in public schools.
+* Developed content and built out organizational website.
 * Reported and mapped educational outcomes for state using public data and GIS software.
-* Managed marketing/communications, fundraising, events, and volunteer outreach.
+* Managed marketing, communications, fundraising, events, and volunteer outreach.
 
-**Global Envision Intern**, *Mercy Corps | Portland, OR* \hfill 2011--2012
+**Global Envision Intern**, *Mercy Corps | Portland, OR* \hfill Nov. 2011--Apr. 2012
 
 * Wrote articles about globalization and solutions to poverty for Mercy Corps' blog.
 
@@ -84,7 +82,8 @@ urlcolor: blue
 # SKILLS
 
   - Data Science: R, SQL, SAS, Github/Gitlab, markdown
-  - Epidemiology & Biostatistics: Causal inference, study design, survey design, model building, missing data methods
+  - Epidemiology: Causal inference, study design, questionnaire design, methods for bias and confounding.
+  - Biostatistics: Advanced statistical modeling, missing data methods, model selection, propensity score analysis.
   - Other: Writing and communication to technical and general audiences, mixed methods analysis, ethnographic methods
 
 
@@ -108,13 +107,29 @@ LeBlanc, N.J., Dixon, L., Robinaugh, D.J., Valentine, S.E., Bosley, H.G., **Gerb
 
 Valentine, S.E., **Gerber, M.W.**, Nobles, C.J., Shtasel, D.L. and Marques, L., 2016. Longitudinal study of mental health and pain-related functioning following a motor vehicle collision. Health psychology, 35(7), p.742.
 
- 
-# SERVICE
 
-  - Boston R-Ladies Meet-up Co-Organizer | 2018--present
-  - Budget Committee, Participatory Budgeting | City of Cambridge | 2016 & 2017 cycles
-  - Science Fair Mentor | MGH James P. Timilty Middle School Partnership | 2016--2017
-  - YWCA of Greater Portland Shelter Volunteer | 2012--2013
+# PRESENTATIONS
+
+**Gerber, M.W.**, Fiechtner, L., Horan, C., Orav, E.J., Taveras, E.M. Clinical-Community Intervention for Childhood Obesity: Effect Modification by Socio-Demographic Groups. Poster Presentation: Society of Epidemiologic Research Annual Meeting 2017, Seattle, WA.
+
+**Gerber, M.W,**. Ziming X., Naimi T. Marijuana policy environment and youth marijuana use: The influence of state-level decriminalization and medical marijuana laws. Poster Presentation: Research Days 2014, Evans Memorial Department of Medicine, Boston University, Boston, MA.
+
+ 
+# OTHER EXPERIENCE AND SERVICE
+
+**Meet-up Organizer**, *[Boston R-Ladies](https://rladies.org/)* \hfill Mar. 2018--present
+
+R-ladies is a world-wide organization to promote gender diversity in the R community.
+
+**Science Fair Mentor**, *[MGH Timilty Middle School Partnership](http://www.massgeneral.org/cchi/services/treatmentprograms.aspx?id=1265)* \hfill Oct. 2017--Feb. 2018
+
+**Budget Commitee Member**, *[City of Cambridge Participatory Budegeting](https://pb.cambridgema.gov/)* \hfill 2016 and 2017 cycles
+
+Participatory budgeting is a democratic process through which the community decides how to spend part of the city's budget. I evaluated ideas from community and developed them into projects for the ballot. 
+
+**Volunteer**, *[YWCA of Greater Portland](https://www.ywcapdx.org/)* \hfill Feb. 2012--Jun. 2013
+
+Completed a 30-hour training in domestic violence issues, volunteered at the YWCA's shelter, and supported development projects.  
 
 
   
